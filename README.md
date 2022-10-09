@@ -1,6 +1,20 @@
 # essential-task-management
 by stakiran
 
+## Effects of Task Management
+- Reduce "忘迷怠(Bou-Mei-Tai)"
+    - "忘" means to forget
+    - "迷" means to be lost
+    - "怠" means to be lazy.
+- Enhance "熱夢集(Netsu-Mu-Shu)"
+    - "熱" means enthusiasm
+    - "夢" means absorption
+    - "集" means concentration
+- Be aware and Adjust "調動脈(Cho-Dou-Myaku)"
+    - "調" means condition
+    - "動" means motivation
+    - "脈" means context
+
 ## ATGV
 - 4: Vision
 - 3: Goal
