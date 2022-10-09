@@ -1,5 +1,5 @@
 # essential-task-management
-by stakiran
+by stakiran -Task Management Mastery in Japan
 
 ## Effects of Task Management
 - Reduce "忘迷怠(Bou-Mei-Tai)"
