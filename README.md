@@ -120,3 +120,12 @@ Source is the origin of the task. For example: 5000m of GTD, AoR of PARA-Method,
     - 9: Tracker
 - Brain-based
     - 10: Inboxer
+
+## 7 stance of proceeing tasks
+- 1: Deligator
+- 2: Sprinter
+- 3: Bufferer
+- 4: Skipper
+- 5: Automaton
+- 6: Rejecter
+- 7: Contexton
