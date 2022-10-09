@@ -100,3 +100,23 @@ Source is the origin of the task. For example: 5000m of GTD, AoR of PARA-Method,
     - Contributor
     - Watcher(Subscriber)
 
+### Arrows
+
+### Attachments
+
+## 10 strategy of Task Management
+- Time-based
+    - 1: Dailer
+    - 2: Calandarer
+    - 3: Slotter
+- Topic-based
+    - 4: Issueies
+    - 5: Topician
+- Gather-based
+    - 6: Richild(Rich Child)
+    - 7: Monolith
+- Repeat-based
+    - 8: Robot
+    - 9: Tracker
+- Brain-based
+    - 10: Inboxer
