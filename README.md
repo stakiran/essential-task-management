@@ -20,7 +20,7 @@
 - Over Must
 - Over Want
 
-BTW, "Too todo" is called Overheat.
+"Too todo" is called Overheat.
 
 ## 4 ways of Task Management
 
@@ -45,5 +45,58 @@ Container is a container of tasks. For example: Folder, Project, List, Group, Bo
 
 Source is the origin of the task. For example: 5000m of GTD, AoR of PARA-Method, Mission-statement of The 7 Habits of Highly Effective People etc.
 
+## 3 type of routine-task implementation
+- Set all firstly
+    - Ex: Outlook
+- End and set
+    - Ex: TaskChute
+- Counter
+    - Ex: Habitica
 
+## Task parameters
+
+### 3A
+| Name | Target |
+| ---- | ---- |
+| Attribute | about configuration |
+| Arrow | about relation |
+| Attachment | about function |
+
+### Attributes
+- Description type
+    - Name(aka: Title, Caption )
+    - Description(overview)
+- Status type
+    - Status(completion, done)
+- Idenfity type
+    - ID(No, number)
+- Date type
+    - Execution date
+    - Creation date
+    - Due date(expiration)
+    - Completion date
+- Time type
+    - Section(hour, time slot)
+    - Start time
+    - End time
+    - Estimate time(expect time)
+    - Actual time
+- Routine type
+    - Frequency(interval)
+    - Condition
+- Classification type
+    - Category(folder, project, group)
+    - Tag
+    - Label
+    - Star
+    - Priority
+    - Trigger Context
+- Subjective type
+    - Importance
+    - Difficulty
+- Collaboration type
+    - Assignee(worker)
+    - Owner
+    - Contributor
+    - Watcher(Subscriber)
 
