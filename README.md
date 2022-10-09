@@ -129,3 +129,22 @@ Source is the origin of the task. For example: 5000m of GTD, AoR of PARA-Method,
 - 5: Automaton
 - 6: Rejecter
 - 7: Contexton
+
+## How to deal with interruptions
+use SWAP matrix.
+
+|         | Strong | Weak |
+| ------- | ------ | ---- |
+| Active  | Active Strong | Active Weak |
+| Passive | Passive Strong | Passive Weak |
+
+- First, we need to understand what an "interruption" is.
+    - An interruption is when you are working on Task A and another "non-negligible" Task B interrupts you.
+    - The point is that it cannot be ignored, and because it cannot be discarded, you are forced to deal with it on the spot, which is why it is annoying. Conversely, if it can be ignored, it is not an interruption. It would not be difficult for some people. For example, you can be so immersed in the situation that you don't notice when you are approached, or you can ignore the person without treating him or her as a human being. Of course, if someone does something forceful, such as shaking your shoulder, you can no longer ignore them, and you will be interrupted.
+- There are two types of interruptions.
+    - Active interruptions. This is an interruption caused by someone other than yourself.
+    - Passive interruptions. Interruptions caused by oneself. The "derailment," which will be discussed later (but which is generally known without needing to be put into words), is also an action related to this type of interruption.
+- Dealing with interruptions is called "putting off".
+    - In short, you have to put off either A, which you are working on now, or B, which has interrupted you. You may be thinking, "Well, you can do both by multitasking," but I'm not going to get into that because it's a bit of a philosophy.
+- There are two types of strategies for putting things off.
+    - Putting off A, which you are currently working on, is called "weak putting off," and putting off B, which interrupted you, is called "strong putting off. The one that puts off the interrupter is the stronger one.
